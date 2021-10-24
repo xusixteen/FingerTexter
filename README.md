@@ -4,7 +4,7 @@
 
 ![FingerTexter-1](https://github.com/xusixteen/FingerTexter/blob/main/FingerTexter-1.png)
 
-![FingerTexter-2](https://github.com/xusixteen/FingerTexter/blob/main/FingerTexter-2.png)
+![FingerTexter-2](https://github.com/xusixteen/FingerTexter/blob/main/FingerTexter-2.jpg)
 
 ## 功能
 ### 设备映射成USB键盘，通过指纹输入台式机登陆密码“asdasdasd”，并且自动按下回车键。
